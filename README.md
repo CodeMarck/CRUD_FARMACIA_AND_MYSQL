@@ -15,7 +15,9 @@ Dr. Santoyo Espinosa Enrique Tadeo
 Equipo:
 
 Domínguez González Marco Antonio 181194
+
 Laura Patricia Espinoza Hernández 183160
+
 Enrique Alonso Gutiérrez Marina 191153
 
  ┌┌┌┌┌┌┌┌┌┌┌┌┌┌┌┌┌┌┌┌┌┌┌┌┌┌┌┌┌┌┌┌┌┌┌┌┌┌┌┌
