@@ -1,4 +1,4 @@
-# CRUD_FARMACIA_AND_MYSQL
+# CRUD_FARMACIA_PYTHON_AND_MYSQL
 Proyecto desarrollado  en Python, Heidi SQL, organizador de fármacos
 
 
