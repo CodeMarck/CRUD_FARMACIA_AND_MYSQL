@@ -1,9 +1,11 @@
 # CRUD_FARMACIA_PYTHON_AND_MYSQL
-Proyecto desarrollado  en Python, Heidi SQL, organizador de fármacos
+Proyecto desarrollado  en Python/ Heidi SQL/ organizador de fármacos
 
 
 Use la libreria Tkinter
+
 SQLserver
+
 HeidiSQL
 
 El objetivo de este proyecto fue desarrollar una base de datos alojada en un servidor, mediante una app generar sentido a los valores de la base de dato alojada en el servidor, fue mediante la red informatica intranet uso de un localhost...
